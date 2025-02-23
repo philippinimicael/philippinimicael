@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/philippinimicael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilippiniMicael&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=PhilippiniMicael&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippiniMicael&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
@@ -22,3 +22,4 @@
   <a href="https://www.linkedin.com/in/micael-tortorella-a85146250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/philippinimicael/philippinimicael/blob/output/github-contribution-grid-snake.svg)
