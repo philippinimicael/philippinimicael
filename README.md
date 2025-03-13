@@ -5,7 +5,6 @@
 <p align="justify"> Me chamo Micael Philippini Tortorella, tenho 19 anos e sou Natural de Lorena-SP. Conclui o ensino médio na ETEC, com o curso de Técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou apaixonado por técnologia e por desenvolver websites elegantes e práticos. </p>
 <div>
   <a href="mailto:philippinimicael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/philippini_micael/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/micael-tortorella-a85146250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 ##
