@@ -1,6 +1,6 @@
 ## 👨‍💻 Micael P. Tortorella
 
-**`Aspirante a Desenvolvedor Front-End`**
+**`Aspirante a Desenvolvedor Full-Stack`**
 
 <p align="justify"> Me chamo Micael Philippini Tortorella, tenho 19 anos e sou Natural de Lorena-SP. Conclui o ensino médio na ETEC, com o curso de Técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou apaixonado por técnologia e por desenvolver websites elegantes e práticos. </p>
 <div>
