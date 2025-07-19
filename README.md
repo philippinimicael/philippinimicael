@@ -93,5 +93,13 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
 </picture>
 
 ###
-    
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
