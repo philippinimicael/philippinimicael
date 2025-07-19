@@ -12,6 +12,7 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
   <a href="https://www.linkedin.com/in/micael-tortorella-a85146250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 ##
+
 ### 💻 Linguagens e Tecnologias
 
 <div>
@@ -34,7 +35,7 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph./svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph.svg">
 </picture>
 
