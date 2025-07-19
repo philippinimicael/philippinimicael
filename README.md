@@ -1,4 +1,4 @@
-## 👨‍💻 Micael P. Tortorella
+# 👨‍💻 Micael P. Tortorella
 
 **`Aspirante a Desenvolvedor Full-Stack`**
 
@@ -13,7 +13,7 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
 
 ##
 
-### 💻 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 
 <div>
     <img align="center" alt="Micael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
@@ -23,7 +23,8 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
 </div>
 
 ##
-### 📊 Estatísticas
+
+## 📊 Estatísticas
 
 
 
@@ -43,6 +44,6 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+##
 ---
 
