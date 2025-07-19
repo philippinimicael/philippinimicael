@@ -30,9 +30,11 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippiniMicael&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippinimicael/philippinimicael/pacman-contribution-graph./svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph./svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/pacman-contribution-graph.svg">
 </picture>
 
