@@ -41,11 +41,3 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
 
 <br>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/philippinimicael/philippinimicael/output/snake.svg" alt="Snake animation" />
-
-###
-
