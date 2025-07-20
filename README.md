@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="228" src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/fundo.github.png?raw=true"  />
+<img align="right" height="194" src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  />
 
 ###
 
