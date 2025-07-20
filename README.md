@@ -4,8 +4,6 @@
 
 ###
 
-<img align="right" height="194" src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  />
-
 ###
 
 <div align="left">
@@ -14,6 +12,8 @@
    <br><br>Sou fascinado pelo universo da programação e pelo desafio de criar sites funcionais, intuitivos e visualmente atraentes. Acredito que a tecnologia pode transformar ideias em soluções inovadoras, e é isso que me motiva a seguir evoluindo nessa área.
   </p>
 </div>
+
+<img align="right" height="194" src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  />
 
 ###
 <div>
