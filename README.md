@@ -5,7 +5,7 @@
 ###
 
 <div>
-  <img src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  alt="ilustração de um computador" min-width="220px" max-width="220px" width="220px"  align="right"/>
+  <img src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px"  align="right"/>
 </div>
 
 ###
