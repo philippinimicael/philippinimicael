@@ -2,11 +2,15 @@
 
 **`Aspirante a Desenvolvedor Full-Stack`**
 
-<p align="left"> 
-  Meu nome é Micael Philippini Tortorella, tenho 20 anos e sou natural de Lorena-SP. Minha trajetória acadêmica começou na ETEC, onde concluí o ensino médio integrado ao curso técnico de Informática, uma experiência que despertou minha paixão pela tecnologia.     Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC, aprofundando meus conhecimentos para me tornar um profissional qualificado na área.
+###
 
-Sou fascinado pelo universo da programação e pelo desafio de criar sites funcionais, intuitivos e visualmente atraentes. Acredito que a tecnologia pode transformar ideias em soluções inovadoras, e é isso que me motiva a seguir evoluindo nesse campo.
-</p>
+<img align="right" height="228" src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/fundo.github.png?raw=true"  />
+
+###
+
+<p align="left">Meu nome é Micael Philippini Tortorella, tenho 20 anos e sou natural de Lorena-SP. Minha trajetória acadêmica começou na ETEC, onde concluí o ensino médio integrado ao curso técnico de Informática, uma experiência que despertou minha paixão pela tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC, aprofundando meus conhecimentos para me tornar um profissional qualificado na área.<br><br>Sou fascinado pelo universo da programação e pelo desafio de criar sites funcionais, intuitivos e visualmente atraentes. Acredito que a tecnologia pode transformar ideias em soluções inovadoras, e é isso que me motiva a seguir evoluindo nesse campo.</p>
+
+###
 <div>
   <a href="mailto:philippinimicael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/micael-tortorella-a85146250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
