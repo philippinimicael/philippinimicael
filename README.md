@@ -5,13 +5,13 @@
 ###
 
 <div>
-  <img align="right" height="194" src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  />
+  <img src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  alt="ilustração de um computador" min-width="220px" max-width="220px" width="220px"  align="right"/>
 </div>
 
 ###
 
 <div align="left">
-  <p align="justify">
+  <p >
     Meu nome é Micael Philippini Tortorella, tenho 20 anos e sou natural de Lorena-SP. Minha trajetória acadêmica começou na ETEC, onde concluí o ensino médio integrado ao curso técnico de Informática, uma experiência que despertou minha paixão pela tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC, aprofundando meus conhecimentos para me tornar um profissional qualificado na área.
   </p>
 </div>
