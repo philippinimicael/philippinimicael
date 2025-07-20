@@ -12,7 +12,7 @@
 
 <div align="left">
   <p align="justify">
-    Me chamo Micael Philippini Tortorella, tenho 20 anos e sou Natural de Lorena-SP. Conclui o ensino médio na ETEC, com o curso de Técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou apaixonado por tecnologia e por desenvolver websites elegantes e práticos.
+    Meu nome é Micael Philippini Tortorella, tenho 20 anos e sou natural de Lorena-SP. Minha trajetória acadêmica começou na ETEC, onde concluí o ensino médio integrado ao curso técnico de Informática, uma experiência que despertou minha paixão pela tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC, aprofundando meus conhecimentos para me tornar um profissional qualificado na área.
   </p>
 </div>
 
