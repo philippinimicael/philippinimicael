@@ -21,7 +21,13 @@ Sou fascinado pelo universo da programação e pelo desafio de criar sites funci
     <img align="center" alt="Micael-BOOTSTRAP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
+  
+  ### 🚀 Frameworks e bibliotecas
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+  ### 🛠️ Ferramentas de desenvolvimento
+  [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 <br>
 
