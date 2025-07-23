@@ -25,13 +25,7 @@
 
 ## 💻 Linguagens e Tecnologias
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
-
-  ### 🛠️ Ferramentas de desenvolvimento
-  [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
-  
-  ### 🚀 Frameworks e bibliotecas
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,github,vscode,bootstrap)](https://skillicons.dev)
 
 ## 📊 Estatísticas
 
