@@ -33,18 +33,7 @@
   ### 🚀 Frameworks e bibliotecas
   [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
-## 📊 Estatísticas
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/philippinimicael">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhilippiniMicael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PhilippiniMicael&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
-
-<br>
+https://github-readme-stats-fast.vercel.app/api?username=philippinimicael
 
 ---
 <br>
