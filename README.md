@@ -36,7 +36,12 @@
 ## 📊 Estatísticas
 
 
-<br> <div align="center"> <a href="https://github.com/philippinimicael"> <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=PhilippiniMicael&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true&rank_icon=github"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippiniMicael&layout=compact&langs_count=16&theme=dark"/> </div> <br>
+<br> 
+    <div align="center"> 
+      <a href="https://github.com/philippinimicael"> 
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=philippinimicael&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true&rank_icon=github"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-                langs/?username=philippinimicael&layout=compact&langs_count=16&theme=dark"/> 
+      </div> 
+<br>
 
 ---
 <br>
