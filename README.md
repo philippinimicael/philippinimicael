@@ -35,7 +35,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=philippinimicael&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=philippinimicael&layout=compact&langs_count=8&theme=dark)
 
 ---
