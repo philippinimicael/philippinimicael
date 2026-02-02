@@ -33,8 +33,6 @@
   ### 🚀 Frameworks e bibliotecas
   [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
-https://github-readme-stats-fast.vercel.app/api?username=philippinimicael
-
 ---
 <br>
 
