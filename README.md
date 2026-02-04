@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou o Micael!
 
-**`Aspirante a Desenvolvedor Full-Stack`**
+**`Desenvolvedor Full-Stack`**
 
 ###
 
@@ -28,7 +28,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python)](https://skillicons.dev)
 
   ### 🛠 Ferramentas de desenvolvimento
-  [![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,idea)](https://skillicons.dev)
   
   ### 🚀 Frameworks e bibliotecas
   [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
