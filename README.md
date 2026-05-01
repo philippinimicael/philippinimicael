@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-##
+###
 
 <div>
   <img src="https://github.com/philippinimicael/philippinimicael/blob/main/.github/workflows/img-github.png?raw=true"  alt="ilustração de um computador" min-width="170px" max-width="170px" width="170px"  align="right"/>
