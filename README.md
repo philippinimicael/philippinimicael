@@ -31,7 +31,7 @@
   [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,idea)](https://skillicons.dev)
   
   ### 🚀 Frameworks e bibliotecas
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 ## 📊 Estatísticas
 
